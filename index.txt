@@ -1,1 +1,1 @@
-Secret values is 7630469
+Secret value is 7630469
